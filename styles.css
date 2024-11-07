@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+main {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  main > h1, p, .tst {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .tst {
+    background: white;
+  }
+  
+  .author {
+    text-align: right;
+    font-style: italic;
+  }
