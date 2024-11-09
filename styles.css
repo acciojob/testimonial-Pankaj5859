@@ -1,9 +1,12 @@
 /*  your css code here. If applicable */
 main {
-    margin: 0;
+    margin: 10px;
     padding: 5px;
     background-color: #f5f5f5;
   }
+.est{
+	margin-left:10px;
+}
   
   main > h1, p, .tst {
     margin: 10px;
